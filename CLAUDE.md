@@ -1,3 +1,7 @@
+# CLAUDE.md
+
+Updates to project-level CLAUDE.md should be concise.
+
 # Pull Requests
 
 When creating a PR:

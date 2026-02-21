@@ -1,6 +1,6 @@
-# CLAUDE.md
+# User-level instructions.
 
-Updates to project-level CLAUDE.md should be concise.
+Propose to update project level CLAUDE.md if a thing can improve efficiency, security or robustness. Updates to project-level CLAUDE.md should be concise.
 
 # Pull Requests
 

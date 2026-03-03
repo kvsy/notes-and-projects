@@ -3,9 +3,4 @@
 *.pyc
 instance/
 secret*
-
-# position infro scraped from each website
-job_pages/
-
-product_descriptions.csv
-attributes.csv
+.idea/

@@ -2,11 +2,11 @@
 
 CLAUDE.md, settings.json and skills/ are the files to mirror to local user space.
 
+CLAUDE.md should be a map to useful contents, not the details.
+
 Use /rename for important session, /resume to avoid recreating the context.
 
 Use /sandbox for difficult tasks.
-
-Use /clear or /compact to reduce context.
 
 Create hooks to compact Bash output (e.g. filter test errors).
 
